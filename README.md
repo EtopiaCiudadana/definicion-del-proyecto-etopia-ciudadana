@@ -1,7 +1,7 @@
 
-
 # Etopia ciudadana 
 
+# Etopia ciudadana 
 
 
 ### Proceso de investigación participativa para la transición hacia una economía social del conocimiento desde Etopia: Centro de Arte y Tecnología
