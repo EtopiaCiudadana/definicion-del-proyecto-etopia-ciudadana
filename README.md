@@ -78,11 +78,13 @@ En general, conviene que tanto autores como diferentes participantes en el proce
 
 Las herramientas que se van a utilizar para articular este proceso participativo abierto así como su comunicación serán las siguientes:
 Listas de correo abiertas. Serán una herramienta principal del trabajo colaborativo, distinguiendo listas de desarrollo, de investigación y de comunicación.
+
 * Web. Dirigido a la comunicación de las fases del proyecto, publicando los acontecimientos más importantes del proceso e indicando las vías de participación en los diferentes grupos de trabajo.
 * Mumble. Servidor de comunicación por voz que permite crear salas para reuniones de trabajo. El cliente de Mumble está disponible para Windows, Mac y GNU/Linux.
 * Etherpad. Permite la escritura en tiempo real para dieciséis personas sin necesidad de crear usuarios y sin necesidad de identificarse.
 * Zotero. Gestor bibliográfico libre para compartir las referencias utilizadas en la investigación, permite también incorporar y acceder a toda la bibliografía de forma automática para cualquier persona que quiera retomar la investigación o acceder a las referencias que sirven de base a los documentos. 
 * Co-ment. Software  libre para el trabajo colaborativo en textos. En una cuenta especial para el proyecto FLOK Society, se incluirán las distintas versiones de los documentos-idea. En particular, ha permi-tido comentarios y respuestas referidos a aspectos concretos de un texto y tiene control de versiones, además de la posibilidad de descarga de los textos en distintos formatos. El acceso es abierto, incluso sin necesidad de identificarse.
+
 Excepto en los casos de Zotero y Co-ment, ambos software  libre, pero con una complejidad notable en su instalación, el resto de servicios serán gestionados de manera autónoma por el equipo técnico del proyecto. La autogestión de infraestructuras tecnológicas y comunicativas abiertas es fundamental para garantizar soberanía tecnológica y evitar la dependencia y la reapropiación del valor productivo de un proyecto cooperativo y abierto por parte de agentes contrarios a sus intereses.
 
 
@@ -90,19 +92,23 @@ Excepto en los casos de Zotero y Co-ment, ambos software  libre, pero con una co
 ## 3. Calendario
 
 
-1-15 de octubre: 
-Documentación sobre la institución y consulta de fuentes bibliográficas secundarias.
-Preparación de la infraestructura de participación, con la elaboración del mapa de agentes y la calendarización inicial de las sesiones.
-15 de octubre - 30 de noviembre: conformación de los equipos, redacción de borradores.
-Cada grupo de trabajo se organizará a través de una lista de correo pública y abierta.
-Los grupos de trabajo comenzarán a redactar los borradores a través de pads.
-30 de noviembre (aprox.): evento de presentación y discusión del proyecto y los borradores elaborados.
-Los borradores elaborados se transforman en un documento v.0.1 que se colgará en Co-ment previa revisión de los editores. 
-1-15 de diciembre: fase de revisión y enmiendas de los documentos-idea.
-Se difunden los borradores en Co-ment entre diferentes agentes y la sociedad civil en general. Además, cada documento será enviado al menos a dos revisores de referencia que elaborarán un breve informe.
-Se incorporarán las enmiendas y propuestas de modificaciones recibidas en sucesivas versiones actualizadas de cada documento-idea (v.0.2, v.0.3, etc.).
-15-31 de diciembre: elaboración de la versión final de los documentos.
-Los documentos-idea terminan de editarse, y se recopilan, se ordenan y se les da un formato único en un documento-marco.
+**1-15 de octubre:** trabajo previo
+* Documentación sobre la institución y consulta de fuentes bibliográficas secundarias.
+* Preparación de la infraestructura de participación, con la elaboración del mapa de agentes y la calendarización inicial de las sesiones.
+
+**15 de octubre - 30 de noviembre:** conformación de los equipos, redacción de borradores.
+* Cada grupo de trabajo se organizará a través de una lista de correo pública y abierta.
+* Los grupos de trabajo comenzarán a redactar los borradores a través de pads.
+
+**30 de noviembre (aprox.):** evento de presentación y discusión del proyecto y los borradores elaborados.
+* Los borradores elaborados se transforman en un documento v.0.1 que se colgará en Co-ment previa revisión de los editores. 
+
+**1-15 de diciembre:** fase de revisión y enmiendas de los documentos-idea.
+* Se difunden los borradores en Co-ment entre diferentes agentes y la sociedad civil en general. Además, cada documento será enviado al menos a dos revisores de referencia que elaborarán un breve informe.
+* Se incorporarán las enmiendas y propuestas de modificaciones recibidas en sucesivas versiones actualizadas de cada documento-idea (v.0.2, v.0.3, etc.).
+
+**15-31 de diciembre:** elaboración de la versión final de los documentos.
+* Los documentos-idea terminan de editarse, y se recopilan, se ordenan y se les da un formato único en un documento-marco.
 
 
 
