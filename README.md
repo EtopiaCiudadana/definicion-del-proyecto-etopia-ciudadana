@@ -48,16 +48,16 @@ Como resultado del proceso, la contribución de los distintos agentes se integra
 
 La investigación se realizará conforme a la siguiente estructura organizativa: (1) grupos de trabajo encargados del proceso de elaboración de cada uno de los documentos-idea, (2) un grupo coordinador responsable del proceso global y de la elaboración última de los documentos-idea y del documento-marco y (3) un grupo impulsor, encargado de lanzar y dinamizar también la investigación desde la Universidad de Zaragoza y de asegurar el soporte técnico.
 
-(1) **Grupos de trabajo**. Nodos esenciales del funcionamiento del proceso. Encargados de la elaboración de los documentos-idea en cada área. Cada grupo estará asociado a una temática y llevará a cabo una pequeña investigación de su temática (recogida y ordenamiento de información, debate... Inicialmente, estos grupos serán: 
-Gobernanza del común y participación ciudadana.
-Potenciar la inteligencia colectiva.
-Capacidades productivas materiales.
-Producción metropolitana digital.
+ **(1) Grupos de trabajo**. Nodos esenciales del funcionamiento del proceso. Encargados de la elaboración de los documentos-idea en cada área. Cada grupo estará asociado a una temática y llevará a cabo una pequeña investigación de su temática (recogida y ordenamiento de información, debate... Inicialmente, estos grupos serán: 
+* Gobernanza del común y participación ciudadana.
+* Potenciar la inteligencia colectiva.
+* Capacidades productivas materiales.
+* Producción metropolitana digital.
 Cada grupo de trabajo se organizará a través de una lista de correo abierta y uno o varios documentos abiertos, según su necesidad. Cada grupo nombrará mediante consenso, al menos, a un editor responsable de dinamizar y coordinar el trabajo del grupo y la elaboración de los documentos en los plazos previstos.
 
-(2) **Grupo coordinador**. En este grupo participan voluntariamente editores de cada grupo de trabajo, participantes en el grupo impulsor en Unizar y otras personas que realicen labores de coordinación del proyecto de investigación. Este grupo coordina los contenidos, revisa la división de documentos-idea por temas, propone la creación de nuevos grupos de trabajo. Se responsabiliza del desarrollo final de los documentos. Enriquece el trabajo buscando agentes que colaboren en los grupos de trabajo, entre otras tareas derivadas de una visión en conjunto del proceso de investigación y de la posición específica de Etopia en el conjunto institucional de la sociedad zaragozana. 
+ **(2) Grupo coordinador**. En este grupo participan voluntariamente editores de cada grupo de trabajo, participantes en el grupo impulsor en Unizar y otras personas que realicen labores de coordinación del proyecto de investigación. Este grupo coordina los contenidos, revisa la división de documentos-idea por temas, propone la creación de nuevos grupos de trabajo. Se responsabiliza del desarrollo final de los documentos. Enriquece el trabajo buscando agentes que colaboren en los grupos de trabajo, entre otras tareas derivadas de una visión en conjunto del proceso de investigación y de la posición específica de Etopia en el conjunto institucional de la sociedad zaragozana. 
 
-(3) **Grupo impulsor en Unizar**: Participa en el resto de grupos, a los que asesora y ayuda a dinamizar y a hacer posible el trabajo colaborativo. Mantiene la infraestructura técnica (web, listas de correo, pads), y hace de enlace entre el proceso de participación y la el Ayuntamiento.
+ **(3) Grupo impulsor en Unizar**: Participa en el resto de grupos, a los que asesora y ayuda a dinamizar y a hacer posible el trabajo colaborativo. Mantiene la infraestructura técnica (web, listas de correo, pads), y hace de enlace entre el proceso de participación y la el Ayuntamiento.
 
 ![](estructura.png)
 *Figura 2. Estructura de los grupos de trabajo.*
