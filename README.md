@@ -51,7 +51,7 @@ La investigación se realizará conforme a la siguiente estructura organizativa:
 * Potenciar la inteligencia colectiva.
 * Capacidades productivas materiales.
 * Producción metropolitana digital.
-* 
+
 Cada grupo de trabajo se organizará a través de una lista de correo abierta y uno o varios documentos abiertos, según su necesidad. Cada grupo nombrará mediante consenso, al menos, a un editor responsable de dinamizar y coordinar el trabajo del grupo y la elaboración de los documentos en los plazos previstos.
 
  **(2) Grupo coordinador**. En este grupo participan voluntariamente editores de cada grupo de trabajo, participantes en el grupo impulsor en Unizar y otras personas que realicen labores de coordinación del proyecto de investigación. Este grupo coordina los contenidos, revisa la división de documentos-idea por temas, propone la creación de nuevos grupos de trabajo. Se responsabiliza del desarrollo final de los documentos. Enriquece el trabajo buscando agentes que colaboren en los grupos de trabajo, entre otras tareas derivadas de una visión en conjunto del proceso de investigación y de la posición específica de Etopia en el conjunto institucional de la sociedad zaragozana. 
