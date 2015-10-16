@@ -1,6 +1,3 @@
-
-# Etopia ciudadana 
-
 # Etopia ciudadana 
 
 
@@ -8,7 +5,7 @@
 
 
 
-## Definición y objetivos del proyecto
+## 1. Definición y objetivos del proyecto
 
 
 Etopia Ciudadana es un proyecto impulsado desde la Universidad de Zaragoza y en colaboración con el Ayuntamiento de Zaragoza, con el objetivo de desarrollar nuevas líneas de participación ciudadana e innovación social en Etopia: Centro de Arte y Tecnología. El proyecto pretende elaborar de forma colaborativa una serie de documentos-idea para plantear nuevas líneas de desarrollo del proyecto de Etopia.
