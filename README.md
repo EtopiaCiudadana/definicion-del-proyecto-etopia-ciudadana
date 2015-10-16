@@ -13,19 +13,22 @@
 Etopia Ciudadana es un proyecto impulsado desde la Universidad de Zaragoza y en colaboración con el Ayuntamiento de Zaragoza, con el objetivo de desarrollar nuevas líneas de participación ciudadana e innovación social en Etopia: Centro de Arte y Tecnología. El proyecto pretende elaborar de forma colaborativa una serie de documentos-idea para plantear nuevas líneas de desarrollo del proyecto de Etopia.
 
 El proyecto inicial de Etopia pretendía promover un ecosistema de innovación para impulsar, la creatividad de base tecnológica, las comunidades de talento e innovación social y el cambio de modelo productivo hacia una economía basada en el factor conocimiento. Sin embargo, el proyecto, diseñado en el boom de la burbuja inmobiliaria, se enfrenta a un contexto social muy diferente que dificulta el desarrollo de las líneas originales tal y como fueron concebidas. Ello provoca una desconexión parcial respecto a los procesos de organización ciudadana y necesidades sociales de la ciudad, que han tomado, por la vía de los hechos y al margen de la institución, la delantera en los procesos de innovación social en sentido amplio. Ante esta situación, el citado proyecto plantea la necesidad de renovar la formulación del proyecto de Etopia y repensarlo como una institución al servicio de las necesidades y bienes comunes de la ciudad, apostando por la participación ciudadana directa y una economía social basada en el conocimiento común y abierto.
-1.1. Objetivo principal
+
+### 1.1. Objetivo principal
+
 Desarrollar un proyecto de investigación y participación ciudadana desde el espacio institucional de Etopia: Centro de Arte y Tecnología destinado a mejorar sus aportes a una economía social basada en el conocimiento y su integración en el ecosistema de instituciones de participación e innovación de la ciudad. El proyecto se llevará a cabo entre octubre y diciembre de 2015, desarrollando un proceso de investigación colaborativa y abierta con dos objetivos principales:
-Desarrollar líneas de desarrollo e innovación vertebrales que definan el proyecto de Etopia y su contenido a medio-largo plazo. La programación formativa, investigadora y divulgativa de la institución se organizará en torno a esas líneas, cuya formulación se mantendrá abierta y coherente con el funcionamiento de un espacio abierto a la participación e innovación de la ciudad y a una economía basada en el conocimiento libre.
-Desarrollar un modelo de gobernanza participativa que permita una gestión colaborativa de las líneas de desarrollo e innovación definidas en el modelo anterior, con el objetivo de una gestión democrática, abierta y transparente del centro y sus actividades.
+* Desarrollar líneas de desarrollo e innovación vertebrales que definan el proyecto de Etopia y su contenido a medio-largo plazo. La programación formativa, investigadora y divulgativa de la institución se organizará en torno a esas líneas, cuya formulación se mantendrá abierta y coherente con el funcionamiento de un espacio abierto a la participación e innovación de la ciudad y a una economía basada en el conocimiento libre.
+* Desarrollar un modelo de gobernanza participativa que permita una gestión colaborativa de las líneas de desarrollo e innovación definidas en el modelo anterior, con el objetivo de una gestión democrática, abierta y transparente del centro y sus actividades.
 
 ###1.2. Líneas de investigación
 
 El proyecto consistirá en la dinamización de un proceso de participación e investigación colaborativa para definir conjuntamente las líneas especificadas arriba. Como uno de los resultados del proceso se elaborarán una serie de documentos de referencia (documentos-idea). La propia delimitación de las áreas que los documentos-idea abarquen permanecerá abierta durante el desarrollo de la investigación, aunque se propone la siguiente configuración inicial:
 
-Gobernanza del común y participación ciudadana. Propuestas de gestión participativa del espacio de Etopia, evaluación crítica de la institución, su modelo de funcionamiento y su liderazgo en la transición hacia la economía social del conocimiento.
-Potenciar la inteligencia colectiva. Proyectos de formación, educación, investigación, ciencia, divulgación, cultura, arte, orientados hacia el procomún y la libre difusión del conocimiento.
-Capacidades productivas materiales. Proyectos de fabricación distribuida, hardware libre, innovación agroalimentaria, biodiversidad, energía, redes comunitarias, para el fomento de un cambio de matriz productiva hacia la economía social del conocimiento. 
-Producción metropolitana digital. Proyectos de innovación basada en datos abiertos, TICs, software libre y de código abierto,  para el fomento de ecosistemas de innovación y producción basados en el conocimiento abierto. 
+* Gobernanza del común y participación ciudadana. Propuestas de gestión participativa del espacio de Etopia, evaluación crítica de la institución, su modelo de funcionamiento y su liderazgo en la transición hacia la economía social del conocimiento.
+* Potenciar la inteligencia colectiva. Proyectos de formación, educación, investigación, ciencia, divulgación, cultura, arte, orientados hacia el procomún y la libre difusión del conocimiento.
+* Capacidades productivas materiales. Proyectos de fabricación distribuida, hardware libre, innovación agroalimentaria, biodiversidad, energía, redes comunitarias, para el fomento de un cambio de matriz productiva hacia la economía social del conocimiento. 
+* Producción metropolitana digital. Proyectos de innovación basada en datos abiertos, TICs, software libre y de código abierto,  para el fomento de ecosistemas de innovación y producción basados en el conocimiento abierto. 
+
 
 
 ## 2. Método de trabajo y participación ciudadana
@@ -62,25 +65,31 @@ Cada grupo de trabajo se organizará a través de una lista de correo abierta y 
 Niveles de participación y reconocimiento de autoría
 La naturaleza del proceso colaborativo, marcada por la heterogeneidad y la pluralidad en las contribuciones, exige estandarizar los niveles de reconocimiento de las aportaciones. Desde esta perspectiva, distinguimos diferentes niveles de contribución al documento, con especificaciones que evitan la arbitrariedad en la asignación de crédito y diferencian niveles y formas de contribuir:
 
-Editor/a: Se encarga de la monitorización del texto, sus versiones, correcciones, estructuración, etc. Puede coincidir o no con alguna de las autoras. Se trata, en definitiva de un/a coordinador/a de la colaboración del texto. Es función del editor/a solicitar las revisiones y leerlas. El grupo elegirá por consenso al editor de cada documento.
-Autoras/es: Son autoras/es quienes propiamente han redactado el texto. El orden de los autores refleja la contribución de los mismos siendo el primer nombre el de quien más ha escrito. El/la autor/a habrá leído y revisado el texto en su versión final o en versiones anteriores pero no tiene porqué estar de acuerdo con la configuración final del texto, labor que queda en manos del o la editora.
-Participante: La diferencia entre participante y autor queda en manos del editor o del resto de autores pero, en todo caso, la contribución debe ser menor a la del resto de autoras/es. Como regla general, si un autor ha escrito menos del 10% del texto debería considerarse contribuidor/a. A su vez, ser contribuidor/a requiere al menos haber escrito dos o tres párrafos o haber realizado contribuciones de valor, como comentarios pertinentes en el Co-ment o haber proporcionado criterios, referencias o elementos de discusión valiosos. 
-Revisor/a: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora. 
+* Editor/a: Se encarga de la monitorización del texto, sus versiones, correcciones, estructuración, etc. Puede coincidir o no con alguna de las autoras. Se trata, en definitiva de un/a coordinador/a de la colaboración del texto. Es función del editor/a solicitar las revisiones y leerlas. El grupo elegirá por consenso al editor de cada documento.
+* Autoras/es: Son autoras/es quienes propiamente han redactado el texto. El orden de los autores refleja la contribución de los mismos siendo el primer nombre el de quien más ha escrito. El/la autor/a habrá leído y revisado el texto en su versión final o en versiones anteriores pero no tiene porqué estar de acuerdo con la configuración final del texto, labor que queda en manos del o la editora.
+* Participante: La diferencia entre participante y autor queda en manos del editor o del resto de autores pero, en todo caso, la contribución debe ser menor a la del resto de autoras/es. Como regla general, si un autor ha escrito menos del 10% del texto debería considerarse contribuidor/a. A su vez, ser contribuidor/a requiere al menos haber escrito dos o tres párrafos o haber realizado contribuciones de valor, como comentarios pertinentes en el Co-ment o haber proporcionado criterios, referencias o elementos de discusión valiosos. 
+* Revisor/a: Esta labor incluye una lectura minuciosa de todo el texto, la corrección de errores y la propuesta de mejoras al mismo. Por lo general, es un trabajo por encargo (solicitado a una persona que se considera competente en la materia), aunque es posible que alguien contribuya haciendo una revisión sin solicitud expresa. En tal caso, la profundidad y calidad de la misma pueden calificar para considerar a esta persona revisora. 
 
 En general, conviene que tanto autores como diferentes participantes en el proceso de escritura colaborativa tengan claras estas distinciones y puedan negociar o explicitar su nivel de contribución, antes, durante y después del proceso. 
 
-2.3. Infraestructura participativa
+
+### 2.3. Infraestructura participativa
+
+
 Las herramientas que se van a utilizar para articular este proceso participativo abierto así como su comunicación serán las siguientes:
 Listas de correo abiertas. Serán una herramienta principal del trabajo colaborativo, distinguiendo listas de desarrollo, de investigación y de comunicación.
-Web. Dirigido a la comunicación de las fases del proyecto, publicando los acontecimientos más importantes del proceso e indicando las vías de participación en los diferentes grupos de trabajo.
-Mumble. Servidor de comunicación por voz que permite crear salas para reuniones de trabajo. El cliente de Mumble está disponible para Windows, Mac y GNU/Linux.
-Etherpad. Permite la escritura en tiempo real para dieciséis personas sin necesidad de crear usuarios y sin necesidad de identificarse.
-Zotero. Gestor bibliográfico libre para compartir las referencias utilizadas en la investigación, permite también incorporar y acceder a toda la bibliografía de forma automática para cualquier persona que quiera retomar la investigación o acceder a las referencias que sirven de base a los documentos. 
-Co-ment. Software  libre para el trabajo colaborativo en textos. En una cuenta especial para el proyecto FLOK Society, se incluirán las distintas versiones de los documentos-idea. En particular, ha permi-tido comentarios y respuestas referidos a aspectos concretos de un texto y tiene control de versiones, además de la posibilidad de descarga de los textos en distintos formatos. El acceso es abierto, incluso sin necesidad de identificarse.
+* Web. Dirigido a la comunicación de las fases del proyecto, publicando los acontecimientos más importantes del proceso e indicando las vías de participación en los diferentes grupos de trabajo.
+* Mumble. Servidor de comunicación por voz que permite crear salas para reuniones de trabajo. El cliente de Mumble está disponible para Windows, Mac y GNU/Linux.
+* Etherpad. Permite la escritura en tiempo real para dieciséis personas sin necesidad de crear usuarios y sin necesidad de identificarse.
+* Zotero. Gestor bibliográfico libre para compartir las referencias utilizadas en la investigación, permite también incorporar y acceder a toda la bibliografía de forma automática para cualquier persona que quiera retomar la investigación o acceder a las referencias que sirven de base a los documentos. 
+* Co-ment. Software  libre para el trabajo colaborativo en textos. En una cuenta especial para el proyecto FLOK Society, se incluirán las distintas versiones de los documentos-idea. En particular, ha permi-tido comentarios y respuestas referidos a aspectos concretos de un texto y tiene control de versiones, además de la posibilidad de descarga de los textos en distintos formatos. El acceso es abierto, incluso sin necesidad de identificarse.
 Excepto en los casos de Zotero y Co-ment, ambos software  libre, pero con una complejidad notable en su instalación, el resto de servicios serán gestionados de manera autónoma por el equipo técnico del proyecto. La autogestión de infraestructuras tecnológicas y comunicativas abiertas es fundamental para garantizar soberanía tecnológica y evitar la dependencia y la reapropiación del valor productivo de un proyecto cooperativo y abierto por parte de agentes contrarios a sus intereses.
 
 
-3. Calendario
+
+## 3. Calendario
+
+
 1-15 de octubre: 
 Documentación sobre la institución y consulta de fuentes bibliográficas secundarias.
 Preparación de la infraestructura de participación, con la elaboración del mapa de agentes y la calendarización inicial de las sesiones.
@@ -97,7 +106,10 @@ Los documentos-idea terminan de editarse, y se recopilan, se ordenan y se les da
 
 
 
-Licencias
+
+## 4. Licencias
+
+
 
 Todos los documentos producidos durante el proceso llevarán una licencia Creative Commons BY-SA y GFDL. Las dos licencias son compatibles y hemos querido dar libertad a quien acceda a los documentos para copiar y distribuirlo mediante cualquiera de las dos opciones. Además, hemos añadido la licencia CC BY-SA 4.0 Internacional para garantizar la máxima difusión y cobertura legal de la producción. 
 
@@ -106,10 +118,17 @@ Estas licencias garantizan la libertad de uso, copia, modificación y redistribu
 En último término, es importante señalar que la condición de copyleft no solo abarca al producto final, sino a la posibilidad de abrir todas las fases del proceso de investigación: las referencias utilizadas, las discusiones de contenido, las referencias cruzadas entre los textos y la articulación de propuestas, etc. Todo ello aparta la metodología del proyecto de la simple agregación de autorías individuales.
 
 
-Notas
+
+## Notas
+
+
 
 [1] Free Libre Open Knowledge Society (www.floksociety.org). El proyecto cuenta como investigador colaborador con David Vila-Viñas, IP del proyecto entre julio 2014 y septiembre de 2015 y editor principal de Vila-Viñas y Barandiaran, X. E. (2015).
-Referencias
+
+
+## Referencias
+
+
 Barandiaran, X.E., D. Vila-Viñas, y D. Vazquez. «Proceso: Arquitectura de la participación durante el proceso FLOK». En Buen Conocer - FLOK Society. Modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en el Ecuador, editado por D. Vila-Viñas y X.E. Barandiaran, 35-87. Quito: IAEN-CIESPAL, 2015.
 http://book.floksociety.org/ec/0/0-2-el-proceso-buen-conocer-flok-society.
 Vila-Viñas, D., y X.E. Barandiaran, eds. Buen Conocer - FLOK Society. Modelos sostenibles y políticas públicas para una economía social del conocimiento común y abierto en el Ecuador. Quito: CIESPAL, IAEN, 2015. http://book.floksociety.org/ec/.
